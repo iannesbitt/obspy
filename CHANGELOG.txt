@@ -1,3 +1,11 @@
+2.0.0 (master)
+==============
+
+Changes:
+ - obspy.signal.cross_correlation:
+   * Remove deprecated xcorr function, remove deprecated domain keyword
+     argument in correlate function (see #1979)
+
 1.2.1 (doi: 10.5281/zenodo.3706479)
 ===================================
 
